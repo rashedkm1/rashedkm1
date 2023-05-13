@@ -22,10 +22,9 @@ technologies.
 
 ### Projects
 Here are some of the projects I've worked on recently:
-* Project 1: [Project 1](https://github.com/example/project1): A web application for managing tasks.
-* Project 2: Description of the project.
-* Project 3: Description of the project.
-
+* [Project 1](https://github.com/example/project1): A web application for managing tasks.
+* [Project 2](https://github.com/example/project1): A web application for managing tasks.
+* [Project 3](https://github.com/example/project1): A web application for managing tasks.
 ### Contact Me-
 * Email: your.email@example.com
 * LinkedIn: Rashed Khan Menon
