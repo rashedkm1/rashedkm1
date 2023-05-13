@@ -20,6 +20,9 @@ challenging projects that push the boundaries of what's possible, and
 I'm always looking for opportunities to learn new skills and 
 technologies.
 
+### Current Project
+I'm currently working on a web application that helps users manage their daily tasks more efficiently. The app is built using React and Redux on the front-end, and Node.js and MongoDB on the back-end.
+
 ### Projects
 Here are some of the projects I've worked on recently:
 * [Project 1](https://github.com/example/project1): A web application for managing tasks.
