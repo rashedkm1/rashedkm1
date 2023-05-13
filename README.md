@@ -32,6 +32,7 @@ Here are some of the projects I've worked on recently:
 * [Project 2](https://github.com/example/project1): A web application for managing tasks.
 * [Project 3](https://github.com/example/project1): A web application for managing tasks.
 ### Contact Me-
+If you're interested in working together, or if you just want to say hello, feel free to contact me:
 * Email: your.email@example.com
 * LinkedIn: Rashed Khan Menon
 * Portfolio: yourportfolio.com
